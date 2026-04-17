@@ -10,3 +10,13 @@ public class CourseApplication {
 		SpringApplication.run(CourseApplication.class, args);
 	}
 }
+
+/*
+{
+	"title" : "Advanced Java Programming",
+	"duration" : "12 Weeks",
+	"fee" : "500.89"
+}
+
+.\mvnw.cmd spring-boot:run
+*/
